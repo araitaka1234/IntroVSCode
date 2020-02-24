@@ -1,4 +1,4 @@
-a = int(input("a="))
+# a = int(input("a="))
 
-for i in range(a):
-    print('あ')
+# for i in range(a):
+#     print('コメントアウト')
